@@ -1,0 +1,31 @@
+{
+  "os": "Windows-11-10.0.26100-SP0",
+  "python": "CPython 3.12.3",
+  "startedAt": "2025-05-19T08:14:34.072806Z",
+  "program": "E:\\Github\\stuff_Before_I_Die\\weightsBiases\\train.py",
+  "codePath": "weightsBiases\\train.py",
+  "git": {
+    "remote": "https://github.com/MimoHasPurpose/stuff_Before_I_Die.git",
+    "commit": "5e3789c9be6108c38667a309999d3b488b1a5a4c"
+  },
+  "email": "sanjaygurjar741@gmail.com",
+  "root": "E:\\Github\\stuff_Before_I_Die\\weightsBiases",
+  "host": "SANJAY",
+  "executable": "C:\\Users\\user\\miniconda3\\python.exe",
+  "codePathLocal": "train.py",
+  "cpu_count": 4,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "104857595904",
+      "used": "42466463744"
+    }
+  },
+  "memory": {
+    "total": "16907886592"
+  },
+  "cpu": {
+    "count": 4,
+    "countLogical": 8
+  }
+}

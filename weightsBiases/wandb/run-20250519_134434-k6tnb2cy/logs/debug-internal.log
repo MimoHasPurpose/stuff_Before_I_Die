@@ -1,0 +1,16 @@
+{"time":"2025-05-19T13:44:34.0763747+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"E:\\Github\\stuff_Before_I_Die\\weightsBiases\\wandb\\run-20250519_134434-k6tnb2cy\\logs\\debug-core.log"}
+{"time":"2025-05-19T13:44:34.9761569+05:30","level":"INFO","msg":"created new stream","id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:34.9761569+05:30","level":"INFO","msg":"stream: started","id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:34.9761569+05:30","level":"INFO","msg":"handler: started","stream_id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:34.9761569+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:34.9761569+05:30","level":"INFO","msg":"sender: started","stream_id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:35.445347+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-19T13:44:36.7510616+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-19T13:44:36.7510616+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-19T13:44:37.7608256+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading requirements.txt","runtime_seconds":0.6501102,"progress":"6.8KB/6.8KB"},{"desc":"updating run config","runtime_seconds":0.3109831}],"total_operations":2}}
+{"time":"2025-05-19T13:44:39.3215646+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-19T13:44:39.7202553+05:30","level":"INFO","msg":"stream: closing","id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:39.7202553+05:30","level":"INFO","msg":"handler: closed","stream_id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:39.7202553+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:39.7210634+05:30","level":"INFO","msg":"sender: closed","stream_id":"k6tnb2cy"}
+{"time":"2025-05-19T13:44:39.7210634+05:30","level":"INFO","msg":"stream: closed","id":"k6tnb2cy"}
