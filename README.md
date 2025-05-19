@@ -17,3 +17,20 @@ basically vol-2 of my other project "Exploration"
 11. [ai-crowd](https://www.aicrowd.com/)
 12. [dart](https://dartsim.github.io/)
 13. Build system: making stuff via dependencies
+    makefile: You need a file called a makefile to tell make what to do. Most often, the makefile tells make how to compile and link a program.
+    makefile syntax:
+    targets: prerequisities
+      commands
+      commands
+      commands
+    target are filenames seperated by spaces.
+    prerequisites are also file names
+    run on cmd: `make`
+
+example:
+
+```
+hello:
+	echo "Hello, World"
+	echo "This line will print if the file hello does not exist."
+```
