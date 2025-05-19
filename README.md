@@ -11,6 +11,9 @@ basically vol-2 of my other project "Exploration"
 6. [turtle: graphics](https://docs.python.org/3/library/turtle.html#id1)
 7. [socket: internet](https://docs.python.org/3/library/socket.html)
 8. [NetLogo: simulation](https://ccl.northwestern.edu/netlogo/bind/)
-9. [sciml:ben mosley](https://benmoseley.blog/) 
-      - [sciml paper](https://www.osti.gov/servlets/purl/1478744)
+9. [sciml:ben mosley](https://benmoseley.blog/)
+   - [sciml paper](https://www.osti.gov/servlets/purl/1478744)
 10. [neural ode](https://docs.kidger.site/diffrax/examples/neural_ode/)
+11. [ai-crowd](https://www.aicrowd.com/)
+12. [dart](https://dartsim.github.io/)
+13. Build system: making stuff via dependencies
