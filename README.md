@@ -38,3 +38,8 @@ hello:
 
 14. [weights and biases]
    used for ml experiment tracking, dataset versionning, project collab.
+
+
+15. Some useful drone libraries:
+   -[ardupilot](https://ardupilot.org/)
+   -[px4](https://px4.io/)
