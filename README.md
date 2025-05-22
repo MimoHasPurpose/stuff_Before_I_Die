@@ -43,3 +43,10 @@ hello:
 15. Some useful drone libraries:
    -[ardupilot](https://ardupilot.org/)
    -[px4](https://px4.io/)
+
+
+15. Plotly is used for interactive charts.
+      - along with dart
+
+
+16. 
