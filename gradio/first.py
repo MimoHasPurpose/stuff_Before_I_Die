@@ -1,11 +1,11 @@
 import gradio as gr
 
-def greet(name,intensity):
-    return "Hello "+name+"!"*int(intensity)
+def greet(name,surname):
+    return "Hello "+name+"!"+surname
 
 demo=gr.Interface(
     fn=greet,
-    inputs=["text","slider"],
-    outputs=["text"],
+    inputs=["text","text"],
+    outputs=["text","text"],
 )
-demo.launch()
+demo.launch(share =True)
